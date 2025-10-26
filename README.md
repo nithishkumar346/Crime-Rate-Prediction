@@ -42,4 +42,7 @@ Built with **Python, Flask, and HTML/CSS**, the app provides a **user-friendly i
 ---
 
 ## ⚙️ Setup & Run
-1️⃣ Cl
+1️⃣ Clone the repository:
+```bash
+git clone https://github.com/your-username/crime-rate-prediction.git
+cd crime-rate-prediction
